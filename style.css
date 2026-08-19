@@ -12,14 +12,19 @@ main {
     background-color: rgba(117, 27, 190, 0.856);
     color: whitesmoke;
     display: flex;
+    max-width: 800 px;
+    margin: 0 auto;
+    padding: 16px;
 }
-div{
+
+div {
     text-align: left;
     max-width: 800 px;
     margin: 0 auto;
     padding: 16px;
 
 }
+
 img {
 
     height: 350px;
